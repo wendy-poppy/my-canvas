@@ -7,4 +7,4 @@
 
 # 效果演示
 
-[demo地址](https://wendy-poppy.github.io/canvas)
+[demo地址](https://wendy-poppy.github.io/canvas/demo.html)
